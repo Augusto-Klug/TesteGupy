@@ -1,3 +1,4 @@
+package Questao01;
 public class Fibonacci {
     // Função que calcula se um número está na sequência de Fibonacci
     public static boolean fibonacci(int numeros) {
